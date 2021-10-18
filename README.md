@@ -20,6 +20,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Budget Gaming Headphone , Redgear Cosmo 7.1](https://arpitytech.wordpress.com/2021/09/07/budget-gaming-headphone-redgear-cosmo-7-1/)
+- [How to choose the best laptop for me?](https://arpitytech.wordpress.com/2021/08/02/how-to-choose-the-best-laptop-for-me/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
