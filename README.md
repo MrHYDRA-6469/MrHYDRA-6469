@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/arpit-yadav-91376819a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-yadav-91376819a" height="30" width="40" /></a>
 <a href="https://fb.com/arpit.yadav.77312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpit.yadav.77312" height="30" width="40" /></a>
 <a href="https://instagram.com/__mr_hydra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mr_hydra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCKow5KlInk9tJ22hpU-R4mA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MrHYDRA" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKow5KlInk9tJ22hpU-R4mA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MrHYDRA" height="30" width="40" /></a>
 <a href="/https://arpitytech.wordpress.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://arpitytech.wordpress.com/feed/" height="30" width="40" /></a>
 </p>
 
