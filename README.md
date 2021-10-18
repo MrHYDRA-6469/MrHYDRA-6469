@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Arpit Yadav</h1>
 <h3 align="center">Professional Lurker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhydra-6469&label=Profile%20views&color=0e75b6&style=flat" alt="mrhydra-6469" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhydra-6469&theme=radical&label=Profile%20views&color=0e75b6&style=flat" alt="mrhydra-6469" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrhydra-6469&theme=radical&" alt="mrhydra-6469" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arpitya75772770" target="blank"><img src="https://img.shields.io/twitter/follow/arpitya75772770?logo=twitter&style=for-the-badge" alt="arpitya75772770" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arpitya75772770" target="blank"><img src="https://img.shields.io/twitter/follow/arpitya75772770?logo=twitter&style=for-the-badge&theme=radical&" alt="arpitya75772770" /></a> </p>
 
 - 🔭 I’m currently working on **QnA**
 
